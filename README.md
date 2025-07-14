@@ -14,4 +14,3 @@ The project helped understand the impact of technology scaling on comparator per
 📁 **Files Included:**
 - 📄 Report
 - 📊 PPT
-- 📷 Simulation screenshots
